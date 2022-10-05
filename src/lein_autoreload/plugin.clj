@@ -32,4 +32,4 @@
 
 (defn middleware [project]
   (update-in project [:dependencies]
-    conj ['org.clojure/tools.namespace "0.2.3"]))
+    conj ['org.clojure/tools.namespace "1.3.0"]))

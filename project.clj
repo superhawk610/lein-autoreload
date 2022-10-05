@@ -6,4 +6,5 @@
   :dependencies [
     [leiningen-core "2.7.0"]
     [ns-tracker "0.2.1"]
-    [org.clojure/clojure "1.8.0"]])
+    [org.clojure/clojure "1.10.0"]
+    [org.clojure/tools.namespace "1.3.0"]])
